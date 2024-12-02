@@ -1,0 +1,3 @@
+vosk
+sounddevice
+numpy
