@@ -2,8 +2,6 @@
 
 Transform your mobile experience with the **Jarvis Sci-Fi Launcher**, a futuristic, science-fiction-inspired interface designed to emulate the sleek and advanced design of Iron Man's J.A.R.V.I.S. This launcher combines cutting-edge visuals, intelligent functionality, and smooth animations to deliver an immersive and innovative user experience.
 
-![Hero Image](#) *(Add a banner image if you have one)*
-
 ---
 ## 📺 Demo Video
 
