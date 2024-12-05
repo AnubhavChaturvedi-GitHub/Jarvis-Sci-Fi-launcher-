@@ -98,3 +98,15 @@ For questions or feedback, contact [Anubhav Chaturvedi](https://github.com/Anubh
 
 <!-- YouTube -->
 [youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+[youtube-url]: https://www.youtube.com/@NetHyTech
+
+<!-- Telegram -->
+[telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
+[telegram-url]: [https://t.me/JarvisByAnubhavChaturvedi]
+
+[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[twitter-url]: https://x.com/AnubhavChatu
+
+
+<!-- YouTube -->
+[youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
