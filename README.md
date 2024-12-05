@@ -8,7 +8,7 @@ Transform your mobile experience with the **Jarvis Sci-Fi Launcher**, a futurist
 ## 📺 Demo Video
 
 Watch the full walkthrough of the **Jarvis Sci-Fi Launcher** on YouTube:  
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ygL_5gSL2ZU?si=WlGC2ylXHAorT9EV))
+[![Watch the Video](https://github.com/user-attachments/assets/f9b14852-3d90-43ab-9132-f9691f3262c2)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ygL_5gSL2ZU?si=WlGC2ylXHAorT9EV))
 
 ---
 
